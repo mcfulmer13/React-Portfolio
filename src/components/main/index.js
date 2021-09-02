@@ -1,13 +1,14 @@
 import React from 'react';
+import "./main.css";
 
-function About() {
+function Home() {
 
     return(
         <div class="pusher">
         <div class="ui inverted vertical masthead center aligned segment">
           <div class="ui text container">
             <h1 class="ui inverted header">McKinley Fulmer's Portfolio</h1>
-            <h2>This portfolio is built with react.js!</h2>
+            <h2>Made with react.js!</h2>
           </div>
         </div>
         <div class="ui vertical stripe segment">
@@ -26,7 +27,7 @@ function About() {
             </div>
             <div class="row">
               <div class="center aligned column">
-                <a class="ui huge button">Visit my Linkedin Profile<i class= "chevron circle right icon"></i></a>
+                <a class="ui huge button" href="https://www.linkedin.com/in/mckinley-fulmer-837216a9/">Visit my Linkedin Profile<i class= "chevron circle right icon"></i></a>
               </div>
             </div>
           </div>
@@ -35,4 +36,4 @@ function About() {
     )
 }
 
-export default About;
+export default Home;

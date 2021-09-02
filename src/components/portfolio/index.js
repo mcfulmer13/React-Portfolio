@@ -9,8 +9,7 @@ function Portfolio () {
     <div class="pusher">
         <div class="ui inverted vertical masthead center aligned segment">
           <div class="ui text container">
-            <h1 class="ui inverted header">McKinley Fulmer's Portfolio</h1>
-            <h2>This portfolio is built with react.js!</h2>
+            <h1 class="ui inverted header">McKinley Fulmer's Portfolio Items</h1>
           </div>
         </div>
       <div class="album py-5 bg-dark">

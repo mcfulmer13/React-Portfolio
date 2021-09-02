@@ -1,6 +1,7 @@
 import React from "react";
 import {NavLink} from "react-router-dom";
 import { Navbar } from "react-bootstrap";
+import "./nav.css";
 
 
 function Navigation(props) {
@@ -27,10 +28,9 @@ function Navigation(props) {
               <div class="nav-font text-light">Portfolio</div>
             </NavLink>
           </li>
-          <li class="nav-item">
-            <NavLink to="/resume">
-              <div class="nav-font text-light">Linkedin</div>
-            </NavLink>
+          <li class="nav-item"><a href="https://www.linkedin.com/in/mckinley-fulmer-837216a9/">
+          <div class="nav-font text-light">Linkedin</div>
+          </a>
           </li>
         </ul>
       </Navbar>
