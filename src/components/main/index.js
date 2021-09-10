@@ -7,8 +7,7 @@ function Home() {
         <div class="pusher">
         <div class="ui inverted vertical masthead center aligned segment">
           <div class="ui text container">
-            <h1 class="ui inverted header">McKinley Fulmer's Portfolio</h1>
-            <h2>Made with react.js!</h2>
+            <h1 class="ui inverted header">McKinley Fulmer</h1>
           </div>
         </div>
         <div class="ui vertical stripe segment">

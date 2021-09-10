@@ -19,7 +19,7 @@ body {
   }
 
   .masthead {
-    background-image: url('./pic/aaron-burden-ZjssSljFiVI-unsplash.jpg') !important;
+    background-image: url('./pic/bg.jpg') !important;
     background-size: cover !important;
 }
   .masthead .logo.item img {
@@ -35,7 +35,7 @@ body {
     margin-bottom: 0em;
     font-size: 4em;
     font-weight: normal;
-    color: rgb(253, 220, 1);
+    color: rgb(46, 46, 44);
   }
 
   .masthead h2 {
