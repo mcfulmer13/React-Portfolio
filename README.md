@@ -1,3 +1,71 @@
+<p align="center">
+  <a href="https://github.com/Endres2/git-hire/issues" alt="issues">
+    <img src="https://img.shields.io/github/issues/mcfulmer13/react-portfolio" />
+  </a>
+  <a href="https://github.com/Endres2/git-hire/network/members" alt="forks">
+    <img src="https://img.shields.io/github/forks/mcfulmer13/react-portfolio" />
+  </a>
+  <a href="https://www.mit.edu/~amini/LICENSE.md" alt="License">
+    <img src="https://img.shields.io/pypi/l/ansicolortags.svg" />
+  </a>
+  <a href="https://github.com/Endres2/git-hire/stargazers" alt="stars">
+    <img src="https://img.shields.io/github/stars/mcfulmer13/react-portfolio" />
+  </a>
+  <a href="https://github.com/Endres2/git-hire/graphs/contributors" alt="contributers">
+    <img src="https://img.shields.io/badge/Contributors-1-green" />
+  </a>	
+</p>
+
+
+
+  <h1 align="center"> MY Portfolio</h1>
+
+  
+
+## <h1 align="center">[Deployed Portfolio](https://mcfulmer13.github.io/React-Portfolio/#/about)</h1>
+
+
+
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <ol>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#built-with">Built With</a></li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#GitHub">GitHub</a></li>
+  </ol>
+</details>
+
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+**The Problem:** YOU NEED A JOB!
+
+**The Solution:** Our app identifies jobs that are made for YOU! We want to help you find the RIGHT job and get you into the workforce. Looking for jobs can be overwhelming, confusing, and frustrating. Git Hire aims to simplify the job search for our users to reduce the stress of finding a job. 
+
+**Git You  Hired:** Allow users a quick and easy job search experience to help them with their job search
+
+**Keep You On Track:** Allow users to track and manage their previous job applications
+
+
+
+
+### Built With
+
+* [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
+* [React](https://reactjs.org/)
+* [Node](https://nodejs.org/en/)
+
+
+
+
+## Usage
+
 # Getting Started with Create React App (Currently Under Construction!!!!!!!)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +136,34 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+_For an in depth example, please refer to my [Code](https://github.com/mcfulmer13/react-portfolio)_
+
+
+
+## Roadmap
+
+See the [open issues](https://github.com/mcfulmer13/react-portfolio/issues) for a list of proposals and known issues.
+
+
+
+## License
+
+[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://www.mit.edu/~amini/LICENSE.md)
+
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+
+## GitHub
+
+
+McKinley's Github - [click here to view](https://github.com/mcfulmer13)
+
+
+
+
+
+
