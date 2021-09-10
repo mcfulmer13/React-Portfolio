@@ -1,3 +1,4 @@
+
 <p align="center">
   <a href="https://github.com/Endres2/git-hire/issues" alt="issues">
     <img src="https://img.shields.io/github/issues/mcfulmer13/react-portfolio" />
@@ -20,7 +21,7 @@
 
   <h1 align="center"> MY Portfolio</h1>
 
-  
+![Screen Shot 2021-09-10 at 12 31 44 AM (2)](https://user-images.githubusercontent.com/85579055/132800475-31d2d0b3-9e53-4820-8201-632d831bacc9.png)  
 
 ## <h1 align="center">[Deployed Portfolio](https://mcfulmer13.github.io/React-Portfolio/#/about)</h1>
 
