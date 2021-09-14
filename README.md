@@ -19,7 +19,7 @@
 
 
 
-  <h1 align="center"> MY Portfolio</h1>
+  <h1 align="center"> MY Portfolio (Currently Under Construction!)</h1>
 
 ![Screen Shot 2021-09-10 at 12 31 44 AM (2)](https://user-images.githubusercontent.com/85579055/132800475-31d2d0b3-9e53-4820-8201-632d831bacc9.png)  
 
@@ -67,7 +67,7 @@
 
 ## Usage
 
-# Getting Started with Create React App (Currently Under Construction!!!!!!!)
+# Getting Started with Create React App 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
