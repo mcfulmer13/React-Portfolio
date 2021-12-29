@@ -42,19 +42,6 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-**The Problem:** YOU NEED A JOB!
-
-**The Solution:** Our app identifies jobs that are made for YOU! We want to help you find the RIGHT job and get you into the workforce. Looking for jobs can be overwhelming, confusing, and frustrating. Git Hire aims to simplify the job search for our users to reduce the stress of finding a job. 
-
-**Git You  Hired:** Allow users a quick and easy job search experience to help them with their job search
-
-**Keep You On Track:** Allow users to track and manage their previous job applications
-
-
-
 
 ### Built With
 
